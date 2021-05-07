@@ -114,7 +114,7 @@
         "class-validator": "^0.13.1",
         "class-validator-multi-lang": "^0.130.100",
         "hammerjs": "^2.0.8",
-        "handlebars": "^4.7.6",
+        "handlebars": "^4.7.7",
         "lodash.get": "^4.4.2",
         "nest-raven": "^7.0.0",
         "ngx-bootstrap": "^6.2.0",
